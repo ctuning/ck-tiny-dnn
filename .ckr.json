@@ -1,6 +1,11 @@
 {
   "data_uid": "ba416ebde828395d",
   "dict": {
+    "repo_deps": [
+      {
+        "repo_uoa": "ck-crowdtuning"
+      }
+    ], 
     "shared": "git",
     "url": "https://github.com/ctuning/ck-tiny-dnn"
   },
