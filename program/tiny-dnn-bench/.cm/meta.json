@@ -18,7 +18,7 @@
   }, 
   "compiler_env": "CK_CXX", 
   "data_name": "tiny-dnn-bench", 
-  "extra_ld_vars": "$<<CK_EXTRA_LIB_M>>$",
+  "extra_ld_vars": "",
   "compiler_flags_as_env": "$<<CK_COMPILER_FLAG_CPP11>>$ $<<CK_COMPILER_FLAG_PTHREAD_LIB>>$", 
   "main_language": "cpp", 
   "process_in_tmp": "yes", 
