@@ -13,6 +13,7 @@
   "deps": {
   }, 
   "end_full_path": {
+    "android": "src$#sep#$tiny_dnn$#sep#$/tiny_dnn.h", 
     "linux": "src/tiny_dnn/tiny_dnn.h",
     "mingw": "src/tiny_dnn/tiny_dnn.h",
     "win": "src\\tiny_dnn\\tiny_dnn.h"

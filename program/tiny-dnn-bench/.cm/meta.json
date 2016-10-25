@@ -2,6 +2,10 @@
   "backup_data_uid": "5d67d68bd7141eda", 
   "build_compiler_vars": {
   }, 
+  "compiler_add_include_as_env_from_deps": [
+    "CK_ENV_LIB_STDCPP_INCLUDE", 
+    "CK_ENV_LIB_STDCPP_INCLUDE_EXTRA"
+  ], 
   "compile_deps": {
     "compiler": {
       "local": "yes", 
