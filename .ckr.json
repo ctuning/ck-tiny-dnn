@@ -4,6 +4,9 @@
     "repo_deps": [
       {
         "repo_uoa": "ck-crowdtuning"
+      },
+      {
+        "repo_uoa": "ck-math"
       }
     ], 
     "shared": "git",

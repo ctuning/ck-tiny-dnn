@@ -1,0 +1,3 @@
+* 2017.01.18 - moved soft to "ck-env" rep and package to "ck-math" repo to keep everything in one place!
+             - added dependency on "ck-math" repo
+
