@@ -46,10 +46,3 @@ Run this bench
 ```
  $ ck run program:tiny-dnn-bench
 ```
-
-Future work
-===========
-Add Tiny DNN to CK benchmarking and auto-tuning workflow
-similar to http://github.com/dividiti/ck-caffe
-
-This is an on-going and long-term project which requires open discussion.
