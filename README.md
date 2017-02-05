@@ -16,8 +16,7 @@ for more details).
 
 ![](http://cKnowledge.org/images/ai-cloud-resize.png)
 
-'''''Note that at the moment we are very limited with resources and mainly focus on Caffe crowd-benchmarking and crowd-tuning.'''''.
-
+_Note that at the moment we are very limited with resources and mainly focus on Caffe crowd-benchmarking and crowd-tuning._
 
 Prerequisites
 =============
