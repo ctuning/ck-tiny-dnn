@@ -1,7 +1,8 @@
 Collective Knowledge repository for evaluating and optimising Tiny DNN
+======================================================================
 
-Introduction
-============
+[![logo](https://github.com/ctuning/ck-guide-images/blob/master/logo-powered-by-ck.png)](http://cKnowledge.org)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 We need to have easily customizable Tiny DNN builds 
 via JSON API to be able to plug it to our framework 
@@ -16,7 +17,7 @@ for more details).
 
 ![](http://cKnowledge.org/images/ai-cloud-resize.png)
 
-_Note that at the moment we are very limited with resources and mainly focus on Caffe crowd-benchmarking and crowd-tuning._
+_Note that at the moment we are very limited with resources and mainly focus on [Caffe crowd-benchmarking and crowd-tuning](https://github.com/dividiti/ck-caffe)._
 
 Prerequisites
 =============
